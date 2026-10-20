@@ -1,1 +1,1 @@
-Liyah Lab V4 — includes official My City Days logo. Upload the contents of this folder to the ROOT of the existing GitHub repository. Keep the existing CNAME file (liyahlab.com) unchanged. Existing EN/RU/ҚАЗ language functionality retained. Privacy and Terms pages are drafts requiring review before commercial launch.
+Liyah Lab V5 — My City Days logo without white square corners and EN/RU/ҚАЗ travel + tagline localization. Upload all files to the existing GitHub repository, replacing matching filenames. Keep CNAME intact.
