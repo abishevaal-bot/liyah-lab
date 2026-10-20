@@ -1,9 +1,1 @@
-# Liyah Lab website draft
-
-Upload these files to a GitHub repository and enable GitHub Pages.
-
-Important:
-- Privacy/Terms are placeholders and must be finalized before public launch.
-- Do not use LLC/Inc. unless that entity is actually formed.
-- Add an official support email before publishing.
-- Add App Store / Google Play buttons once public store links are available.
+Liyah Lab V4 — includes official My City Days logo. Upload the contents of this folder to the ROOT of the existing GitHub repository. Keep the existing CNAME file (liyahlab.com) unchanged. Existing EN/RU/ҚАЗ language functionality retained. Privacy and Terms pages are drafts requiring review before commercial launch.
